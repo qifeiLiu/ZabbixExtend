@@ -1,0 +1,12 @@
+time,2018-07-04 13:31:18
+CMD,%CPU
+/opt/Citrix/ICAClient/wfica,3.6
+/usr/lib/xorg/Xorg :0 -seat,2.6
+./WorkspaceHubControlServic,2.2
+[VCHIQ-0],0.3
+lxpanel --profile LXDE-pi,0.1
+/sbin/init splash,0.0
+[kthreadd],0.0
+[ksoftirqd/0],0.0
+[kworker/0:0],0.0
+[kworker/0:0H],0.0

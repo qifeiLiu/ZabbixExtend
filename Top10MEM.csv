@@ -1,0 +1,12 @@
+time,2018-07-04 13:31:16
+CMD,%MEM
+/usr/lib/xorg/Xorg :0 -seat,10.7
+./pihublauncher,7.3
+/opt/Citrix/ICAClient/wfica,6.8
+/usr/lib/arm-linux-gnueabih,5.8
+/usr/bin/python /usr/bin/bl,4.7
+lxpanel --profile LXDE-pi,3.4
+pcmanfm --desktop --profile,2.4
+/usr/lib/notification-daemo,2.1
+/usr/bin/lxsession -s LXDE-,1.6
+openbox --config-file /home,1.6
